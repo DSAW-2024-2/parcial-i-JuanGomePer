@@ -1,5 +1,7 @@
 # Reto de Componente de Vista Previa de Artículo con HTML, CSS y JavaScript
 
+# Link parcial: https://dsaw-2024-2.github.io/parcial-i-JuanGomePer/
+
 ![Vista previa del diseño para el reto del componente de vista previa de artículo](./design/desktop-preview.jpg)
 ![Vista previa del diseño para el reto del componente de vista previa de artículo](./design/desktop-active-state.jpg)
 
